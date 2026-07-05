@@ -1,4 +1,4 @@
-/*9. Cambiar un número entero con el mismo valor pero en romanos.
+/*9. Cambiar un nÃºmero entero con el mismo valor pero en romanos.
 	
 	M = 1000
 	D = 500
